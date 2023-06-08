@@ -62,7 +62,7 @@
     "ora": "^5.4.1"
   },
   "peerDependencies": {
-    "mongodb": "4.x.x"
+    "mongodb": "4.x.x || ^5.0.0"
   },
   "lint-staged": {
     "*.{ts,js}": [
